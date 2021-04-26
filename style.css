@@ -1,0 +1,14 @@
+html{
+    scroll-behavior: smooth;
+}
+section{
+    text-align: center;
+}
+
+
+img{
+    border-radius: 10px
+}
+body{
+    background-color: bisque;
+}
